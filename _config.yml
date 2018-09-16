@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: エラー画面
-avator: "https://github.com/15-2505-046-5/test/blob/master/エラー画面%20(2).png"
+logoimg:
+  enable: true
+  src: "https://github.com/15-2505-046-5/test/blob/master/エラー画面%20(2).png"
