@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: エラー画面
 imglogo:
-  enable: true               ## 是否显示网站 logo
-  src: エラー画面(1).png
+  enable: true              
+  src: エラー画面 (2).png 
