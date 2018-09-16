@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 title: エラー画面
-discription: 
-url: "https://pbs.twimg.com/profile_images/544799358542032898/CU_lVEKF_400x400.png"
-
+default_cover_index: "https://pbs.twimg.com/profile_images/544799358542032898/CU_lVEKF_400x400.png"
