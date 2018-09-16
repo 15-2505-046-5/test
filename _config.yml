@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: エラー画面
-default_cover_index: "https://pbs.twimg.com/profile_images/544799358542032898/CU_lVEKF_400x400.png"
+imglogo:
+  enable: true               ## 是否显示网站 logo
+  src: エラー画面(1).png
