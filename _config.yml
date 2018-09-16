@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
-generator_amp:
-    templateDir: amp-template
-    assetDistDir: amp-dist
+site:
     logo:
         path: エラー画面 (1).png 
         width: 1366
         height: 768
-    warningLog: false
+
